@@ -55,7 +55,7 @@ export BLISS_DEVELOPER=Magicxavi
 PRODUCT_PACKAGES += \
     AdvancedControls \
     OneplusWidget \
-    MintBrowser \
+    FirefoxLite \
     Phonograph \
     CameraGo \
     RemovePackages
